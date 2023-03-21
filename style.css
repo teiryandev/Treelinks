@@ -64,21 +64,23 @@ ul li  :hover{
   font-family: 'Oswald';
 }
 
-@media (max-width: 700px) {
+@media (min-width: 200px) {
  .container{
   align-items: center;
   text-align: center;
-  padding: 0px 1px;
-  margin-right: 220px;
+  margin-right: 200px;
+ }
+ p{
+  color: white;
  }
   
   .container ul{
     display: flex;
-    margin-top: 50px;
+    margin-top: 30px;
+    margin-right: 10px;
     align-items: center;
   }
 }
-
  
 
 
