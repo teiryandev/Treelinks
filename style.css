@@ -53,11 +53,11 @@ ul li  :hover{
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 2px solid rgb(255, 255, 255);
+  border: 2px solid #fc1e43;
   border-radius: 10px;
   padding: 25px 0;
   text-decoration: none;
-  color: black;
+  color: rgba(255, 252, 252, 0.986);
   margin-left: 220px;
   background-color: #c31432;
   font-size: 25px;
